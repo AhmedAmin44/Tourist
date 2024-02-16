@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221162694017",
+    "project_id": "tour-trove",
+    "storage_bucket": "tour-trove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221162694017:android:0abacd7593086b2774b480",
+        "android_client_info": {
+          "package_name": "com.example.dalel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4OGbNUn1spw0xgH0mNnBAero75iUPiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
